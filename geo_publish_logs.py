@@ -37,12 +37,6 @@ def read_log(log_file):
                 print("Publish Duration:", duration)
 
 
-
-
-
-
-
-
 read_log(log_file)
 
 
